@@ -1,0 +1,7 @@
+#BlueJ class context
+#Wed Sep 30 07:33:13 IST 2026
+comment0.target=Q4
+comment0.text=\r\n Write a description of class Q4 here.\r\n A shopkeeper offers 80% discount on purchasing articles whereas\r\n the other shopkeeper offers two successive discount 60% and 25%\r\n for purchasing the same articles.\r\n Write a program in Java to compute and display which is better\r\n offer for a customer. Take the price of an article as an input. \r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2
