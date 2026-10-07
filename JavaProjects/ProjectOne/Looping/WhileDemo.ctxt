@@ -1,0 +1,7 @@
+#BlueJ class context
+#Wed Oct 07 06:51:35 IST 2026
+comment0.target=WhileDemo
+comment0.text=\r\n Write a description of class WhileDemo here.\r\n Program to print multiplication table of a number from 1 to N\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2
